@@ -1,0 +1,8 @@
+Kuidas ma saan kasutada GitHub tulevikus?
+Ma mõtlen, et tulevikus ma alustan kasutada teda, millal mulle vaja gruppitega töö teha, realajas. Või millal ma hakkan tegema suur töö ja mulle vaja midagi ohtlik kontrollida(mis saab midagi muruda) 
+GitHub.com platvormi arendus algas 19. oktoobril 2007.
+Saidi käivitasid 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath, P. J. Hyett ja Scott Chacon pärast seda, kui see oli paar kuud enne beetaversiooni kättesaadavaks tehtud.
+Organisatsiooniline struktuur
+GitHub, Inc. oli algselt lame organisatsioon, kus polnud keskastme juhte; teisisõnu "kõik on juhid" (enesejuhtimine).
+Töötajad said valida, kas nad töötasid neile huvi pakkuvate projektidega (avatud jaotus), kuid palgad määras tegevjuht.
+2014. aastal võttis GitHub, Inc. kasutusele keskastme juhtkonna, kes esitati kõrgema juhtkonna vastu esitatud ahistamisnõuetes. Tom Preston-Werner astus skandaali keskel tegevjuhi kohalt tagasi.
